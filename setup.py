@@ -14,7 +14,7 @@ setup (
     description="Conversor de moedas",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/K3nz002/criacao_pacotes',
+    url="https://github.com/K3nz002/criacao_pacotes",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
