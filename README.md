@@ -1,27 +1,20 @@
-# package_name
+# conversor-moedas
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package conversor-moedas is used to:
+	- Convert currency
+	- Get currency rate
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install conversor-moedas
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
+pip install conversor-moedas
 ```
 
 ## Author
-My_name
+Guilherme Kenzo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
